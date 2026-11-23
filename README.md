@@ -18,4 +18,3 @@ Modul layanan API untuk pengelolaan proses Kartu Rencana Studi (KRS) mahasiswa, 
  3. Buka di browser:
    - API / Aplikasi: `http://127.0.0.1:8000`
    - Dokumentasi Interaktif (Swagger UI): `http://127.0.0.1:8000/docs`
-
